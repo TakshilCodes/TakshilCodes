@@ -1,5 +1,5 @@
 # 👋 About Me:
-Hi, I’m Takshil Pandya.<br>I’m a full-stack web developer focused on building real products.<br><br>Right now I’m working on Townhawll, a large-scale platform that involves authentication, databases, APIs, data ingestion, and production-level architecture. Most of my time goes into understanding how real systems are designed and scaled, not just making things look good.<br><br>I mainly work with Next.js, TypeScript, Prisma, PostgreSQL, and Tailwind CSS, and I’m actively learning backend design, database modeling, and API integration by building things end-to-end.<br><br>I like clean, simple UIs, but I care more about logic, structure, and correctness behind the scenes.
+Hi, I’m Takshil Pandya.<br>I’m a full-stack web developer focused on building real products.<br><br>Right now I’m working on Townhawll, a large-scale platform that involves authentication, databases, APIs, data ingestion, and production-level architecture. Most of my time goes into understanding how real systems are designed and scaled, not just making things look good.<br><br>I mainly work with Next.js, TypeScript, Prisma, PostgreSQL, and Tailwind CSS, and I’m actively learning backend design, database modeling, and API integration by building things end-to-end.<br><br>
 
 
 ## 🌐 Socials:
