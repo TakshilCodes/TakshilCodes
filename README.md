@@ -10,4 +10,4 @@ Hi, I’m Takshil Pandya.<br>I’m a full-stack web developer focused on buildin
 # 📊 GitHub Stats:
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TakshilCodes&theme=github-dark)<br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&cache_seconds=1)
+![GitHub Streak](https://streak-stats.demolab.com?user=TakshilCodes&theme=dark&cache_seconds=1)
